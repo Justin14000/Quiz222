@@ -1,0 +1,120 @@
+body {
+ background-image: url("https://www.xmple.com/wallpaper/linear-green-pink-gradient-1920x1080-c2-90ee90-ffb6c1-a-270-f-14.svg");
+ background-color: #cccccc;
+}
+
+
+.pg{ 
+    text-align: center;
+    font-family: cursive;
+    font-size:100px;
+}
+.one{
+    display:none;
+  
+}
+
+.two{
+    display:none;
+}
+
+.three{
+    display:none;
+}
+
+.four{
+    display:none;
+}
+
+.everything{
+    display: none;
+}
+
+
+.logo{ 
+  width: 500px;
+    height: 500px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.whyy{
+    display:none;
+}
+
+.clipp{
+    display: none;
+     width: 400px;
+    height: 400px;
+margin-left:385px;
+  margin-right: auto;
+  
+
+}
+.gsw{
+    display: none;
+ width: 400px;
+    height: 400px;
+margin-left: auto;
+  margin-right: auto;
+  
+
+}
+
+.goat{
+    display: none;
+     width: 550px;
+    height: 500px;
+  margin-left: 400px ;
+  margin-right: auto;
+  width: 50%;
+}
+.curry{
+    display: none;
+     width: 550px;
+    height: 500px;
+  margin-left: 400px ;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.kd{
+    display: none;
+     width: 550px;
+    height: 500px;
+  margin-left: 400px ;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.notgood{
+      display: none;
+     width: 550px;
+    height: 500px;
+  margin-left: 400px ;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.smh{
+    display:none;
+   
+}
+
+
+.button{
+    display:none;
+
+}
+
+
+.end{
+    display:none;
+  
+}
